@@ -1,2 +1,2 @@
-# deephack_cources
+# deephack_courses
 NLP and RL tasks for deephack lab cources
